@@ -63,4 +63,4 @@ The dataset contains order-level details: customer, product, category, brand, qu
 - Designing a clean, consistent dashboard layout
 
 ## 👤 Author
-**Your Name** – [LinkedIn](#) | [GitHub](#)
+**Pranav Said** – [LinkedIn](#) | [GitHub](#)
