@@ -27,7 +27,7 @@ The dataset contains order-level details: customer, product, category, brand, qu
 - Payment Method Analysis
 
   ##Dashboard
-  - <a href="https://github.com/pranavsaid34-bot/Excel-Project-Hub1/blob/main/Screenshot%202026-09-04%20111745.png">Dataset View</a>
+  - <a href="https://github.com/pranavsaid34-bot/Excel-Project-Hub1/blob/main/Screenshot%202026-09-04%20111745.png">Dashboard View</a>
 
 
 ## 🛠️ Tools & Techniques
