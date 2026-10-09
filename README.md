@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# 📊 Excel Amazon Sales Dashboard
 
 An interactive Excel dashboard built from scratch to analyze e-commerce sales performance across 2023–2024. It turns ~40,000 raw order records into clear KPIs and visuals using PivotTables, PivotCharts, and a custom-designed dashboard layout.
 
