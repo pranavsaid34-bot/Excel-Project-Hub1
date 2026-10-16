@@ -51,7 +51,7 @@ The dataset contains order-level details: customer, product, category, brand, qu
 
 
 ## 🚀 How to Use
-1. Download <a href="<a href="https://github.com/pranavsaid34-bot/Excel-Project-Hub1/blob/main/Excel%20First%20Dashboard%20sales.xlsx">`Excel_First_Dashboard_sales.xlsx`.</a>
+1. Download <a href=<a href="https://github.com/pranavsaid34-bot/Excel-Project-Hub1/blob/main/Excel%20First%20Dashboard%20sales.xlsx">`Excel_First_Dashboard_sales.xlsx`.</a>
 
 2. Open it in Microsoft Excel (2016 or later recommended).
 3. Go to the **Dashboard** sheet and explore the visuals.
